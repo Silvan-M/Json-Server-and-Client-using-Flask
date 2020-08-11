@@ -1,6 +1,6 @@
 # What does it do?
 This is the most simple way of running a JSON flask server, hosting a json file and parsing it afterwards.
-It takes as input the `table` variable and outputs it.
+It takes as input the `table` variable and hosts it as json on localhost with port 5000, then the client can read this json and converts it to a pyhton table.
 
 # Install
 Commands for modules:
