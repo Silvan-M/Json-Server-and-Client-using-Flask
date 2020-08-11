@@ -3,7 +3,7 @@ This is the most simple way of running a JSON flask server, hosting a json file 
 It takes as input the `table` variable and hosts it in a json format on localhost with port 5000. Then the client reads this json and converts it to a python table.
 
 # Install
-Commands for modules:
+Commands for the installation of the modules:
 - pip install flask
 - pip install simplejson
 
