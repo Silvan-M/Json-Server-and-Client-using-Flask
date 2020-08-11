@@ -12,7 +12,7 @@ CMD:
 - cd into the python directory
 - run `export FLASK_APP=server.py`
 - run `python -m flask run`
-- Access the server at "http://localhost:5000/"
+- Access the server at: http://localhost:5000/
 
 # Client 
 Simply run the `client.py` python script.
